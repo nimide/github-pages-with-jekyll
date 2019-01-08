@@ -1,3 +1,8 @@
+---
+title: "My First Post"
+date: 2019-01-07
+---
+
 # __My First Post__
 
   I've never thought of myself as a writer. In fact, I'm sure I'm not a writer. A writer is someone who puts their ideas out there knowing
