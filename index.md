@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Nicholas Denny
 
-I'm glad you are here. I plan to talk about ...
+This is a page where I am going to _practice_ using __Jekyll__ through Github by making a simulated resume/portfolio. :grin:
